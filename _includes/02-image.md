@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image](https://upload.wikimedia.org/wikipedia/en/7/70/Panionios_FC.png)
